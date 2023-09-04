@@ -1,4 +1,4 @@
-EMARSYS Homework - Due Date Calculator
+## EMARSYS Homework - Due Date Calculator
 
 ## Overview
 The Due Date Calculator is a Java-based command-line tool made for a homework assignment for Emarsys. This application calculates due dates and times based on user input, taking into account working hours and working days.
